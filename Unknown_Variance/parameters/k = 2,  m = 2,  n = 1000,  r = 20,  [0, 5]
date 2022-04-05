@@ -1,0 +1,15 @@
+\begin{tabular}{lll}
+\hline
+               & arm 1   & arm 2*   \\
+\hline
+ alpha 1       & 0.26    & 0.25     \\
+ mean 1        & 0.48    & 1.85     \\
+ std 1         & 0.93    & 0.71     \\
+ -             &         &          \\
+ alpha 2       & 0.74    & 0.75     \\
+ mean 2        & 1.44    & 2.59     \\
+ std 2         & 0.73    & 0.57     \\
+ -             &         &          \\
+ weighted mean & 1.19    & 2.4      \\
+\hline
+\end{tabular}
